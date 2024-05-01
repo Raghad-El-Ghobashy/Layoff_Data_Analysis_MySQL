@@ -1,4 +1,4 @@
-# Layoffs Data Analysis Project README
+# Layoffs Data Analysis Project Overview
 
 This repository contains the code and documentation for our layoff data analysis project using MySQL. In this project, we aim to analyze layoff data to gain insights into various aspects such as maximum and minimum layoffs, total layoffs by company, industry, and country, trends over time, and more.
 
