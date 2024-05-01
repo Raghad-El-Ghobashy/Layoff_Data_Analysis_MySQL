@@ -2,7 +2,7 @@
 
 This repository contains the code and documentation for our layoff data analysis project using MySQL. In this project, we aim to analyze layoff data to gain insights into various aspects such as maximum and minimum layoffs, total layoffs by company, industry, and country, trends over time, and more.
 
-## Cleaning Process
+## Cleaning Process 🧽
 
 The initial phase of our project involved cleaning the raw layoff data to ensure accuracy and consistency in our analysis. Here are the steps we took in the cleaning process:
 
@@ -11,7 +11,7 @@ The initial phase of our project involved cleaning the raw layoff data to ensure
 - **Handling Null Values and Blanks:** Addressed missing or incomplete data points by either filling in the gaps or removing them as necessary.
 - **Removing Columns and Rows:** Streamlined the dataset by removing irrelevant columns and rows that do not contribute to our analysis objectives.
 
-## Analysis Journey
+## Analysis Journey 📊
 
 Once the data was cleaned and preprocessed, we embarked on our analysis journey to derive meaningful insights. Here are some of the key analyses we performed:
 
